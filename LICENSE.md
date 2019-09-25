@@ -5,9 +5,11 @@ This software is released under the following licences providing you meet the co
 If none of the catigories apply to you, please email licencing@thecdn.link for licencing information. 
 
 ###Registered Non-profits may licence the project under the following licences without notice.
+
 NPOSL-3.0 or CC-BY-4.0 licence
 
 ###Non-comercial open-source or US acredited educational instatutions.
+
 MIT
 
 Non-Profit Open Software License 3.0 (spdx NPOSL-3.0)
